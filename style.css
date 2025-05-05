@@ -1,0 +1,22 @@
+*{
+    font-family:'Courier New', Courier, monospace
+}
+.parent{
+    /* border: 2px solid black */
+}
+
+.child1{
+    background-color: #f1a203;
+    color: white;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 16px;
+    font-family:'Courier New', Courier, monospace
+}
+.child2{
+    background-color: rgb(21, 184, 234);
+    color: white;
+    margin:15px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
